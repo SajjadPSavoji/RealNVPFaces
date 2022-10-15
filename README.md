@@ -6,8 +6,8 @@ Unsupervised learning of probabilistic models is a central yet challenging probl
 <table>
 
 <tr>
-<td> Real </td>
-<td> Generated </td>
+<td> Our work </td>
+<td> Results from paper </td>
 </tr>
 
 <tr>
