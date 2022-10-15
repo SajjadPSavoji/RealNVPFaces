@@ -12,7 +12,7 @@ Unsupervised learning of probabilistic models is a central yet challenging probl
 
 <tr>
 <td> <img src=""> </td>
-<td> <img src=""> </td>
+<td> <img src="https://github.com/SajjadPSavoji/RealNVPFaces/blob/main/Assets/RealNVPOriginal.png"> </td>
 </tr>
 
 </table>
